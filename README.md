@@ -8,7 +8,7 @@ This repository is for testing new things
 * Vue.js
 ```
 # Live
-<a href="https://comparisonslider.netlify.app" target:"_blank">Here</a>
+<a href="https://comparisonslider.netlify.app" target="_blank">Here</a>
 
 # Desktop preview:
 
